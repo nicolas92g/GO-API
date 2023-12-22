@@ -1,0 +1,7 @@
+*.pdf
+*.sum
+*.loo
+*.lo1
+.idea
+*\env.go
+*\main.exe
